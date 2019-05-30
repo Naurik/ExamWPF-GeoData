@@ -1,0 +1,30 @@
+﻿<Window x:Class="ExamWPF_EarthQuakeAPI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExamWPF_EarthQuakeAPI"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <materialDesign:Card Height="330">
+            <DataGrid Name="gridInformation">
+
+            </DataGrid>
+        </materialDesign:Card>
+
+        <materialDesign:Card Height="18" Margin="10,335,640,0" Focusable="True" FontFamily="Matura MT Script Capitals" Background="Chocolate">
+            <TextBlock Text="Enter count data:" ></TextBlock>
+        </materialDesign:Card>
+
+        <materialDesign:Card Height="33" Margin="315,358,328,0" Focusable="True" FontFamily="Segoe Print">
+            <Button Content="Search" Click="Button_Click"></Button>
+        </materialDesign:Card>
+
+        <materialDesign:Card Height="33" Margin="10,358,597,0" Focusable="True" Typography.DiscretionaryLigatures="True" Background="Cyan">
+            <TextBox Name="textBoxSearchCount" PreviewTextInput="TextBoxSearchCountPreviewTextInput"  ></TextBox>
+        </materialDesign:Card>
+
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\ExamWPF-EarthQuakeApi.Models.dll
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\ExamWPF-EarthQuakeApi.Models.pdb
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\MaterialDesignColors.dll
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\Newtonsoft.Json.dll
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\MaterialDesignColors.pdb
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\bin\Debug\Newtonsoft.Json.xml
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\obj\Debug\ExamWPF-EarthQuakeApi.Models.csprojAssemblyReference.cache
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\obj\Debug\ExamWPF-EarthQuakeApi.Models.csproj.CoreCompileInputs.cache
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\obj\Debug\ExamWPF-EarthQuakeApi.Models.csproj.CopyComplete
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\obj\Debug\ExamWPF-EarthQuakeApi.Models.dll
+c:\users\машимовн.corp\source\repos\ExamWPF-EarthQuakeAPI\ExamWPF-EarthQuakeApi.Models\obj\Debug\ExamWPF-EarthQuakeApi.Models.pdb
